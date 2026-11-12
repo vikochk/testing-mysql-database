@@ -1,0 +1,11 @@
+{
+    "author_name" : "Vika",
+    "project_name" : "LearningDB",
+    "amount_of_tests_with_duplicates" : 5,
+    "new_tests_names" : {
+        "summation": "KS-12345 Checking the summation of two numbers",
+        "multiplication": "KS-67890 Checking if a string is multiplied by a number"
+    },
+    "author_login" : "vikoch",
+    "author_email" : "vikoch@gmail.com"
+}
